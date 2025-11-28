@@ -1,61 +1,62 @@
-# Randy Mitchell QA Portfolio
+# Randy Mitchell — QA Portfolio
 
-Manual and automation QA engineer, focused on Playwright, API testing, and strong test design.  
-This repo is the hub for my projects and case studies.
+Manual and automation QA engineer specializing in Playwright, API testing, and strong test design.  
+This portfolio serves as the hub for my automation projects, case studies, and documentation.
+
+---
 
 ## About me
 
-I have hands on QA experience testing web applications and mobile games.  
-My background includes work on federal VA projects, secure communication software, and now modern UI automation with Playwright and TypeScript.
+I have hands-on experience testing web applications and mobile games.  
+My background includes federal VA systems, secure communication software, and now modern UI automation using Playwright and TypeScript.
+
+---
 
 ## Skills
 
-**Testing types**  
+### Testing Types
 • Functional UI testing  
 • Regression and smoke testing  
-• Integration and API testing  
-• Cross browser and cross platform checks  
+• API and integration testing  
+• Cross-browser and cross-platform validation  
 
-**Tools and tech**  
+### Tools & Technologies
 • Playwright, TypeScript, Node.js  
 • Postman, Newman  
 • Git, GitHub, Jira, TestRail  
-• SQL for basic data validation  
+• SQL for basic data checks  
 
 ---
 
 ## Projects
 
-### 1. Secure Case Portal – Playwright UI Automation
+### **1. Secure Case Portal — Playwright UI Automation**
+**Public demo site:** https://www.saucedemo.com  
+**Repo:** https://github.com/RandyMitchellQA/secure-case-portal  
 
-Public demo: `https://www.saucedemo.com`
+**Project focus:**  
+End-to-end UI automation using the Page Object Model. Covers login, negative validation, logout, and UI state checks.
 
-Repo: [secure-case-portal](https://github.com/RandyMitchellQA/secure-case-portal)
-
-What this project shows:
-
+**Highlights:**  
 • Page Object Model structure  
-• Positive and negative login tests  
-• Logout flow validation  
-• HTML reports from Playwright  
-• Clean Git history and a clear README  
+• Positive and negative login test scenarios  
+• Logout verification  
+• Playwright HTML reporting  
+• Clean Git history and documentation  
 
 ---
 
-### 2. Upcoming projects
+### **2. Upcoming Projects**
 
-These projects are planned and will be added as separate repos:
+These will be added as independent repositories:
 
-• Personnel Management Portal, CRUD UI tests with Playwright  
-• API testing suite, Postman plus Newman with GitHub reports  
-• Manual testing pack, test plans, test cases, and bug reports
+• Personnel Management Portal — CRUD UI automation using Playwright  
+• API Testing Suite — Postman + Newman with automated reports  
+• Manual QA Pack — Test plans, test cases, and structured bug reports  
 
 ---
 
 ## Contact
 
-**Email**  
-`randymitchell22@icloud.com`
-
-**LinkedIn**  
-[Randy Mitchell on LinkedIn](https://www.linkedin.com/in/randy-mitchell-74467217b)
+**Email:** randymitchell22@icloud.com  
+**LinkedIn:** https://www.linkedin.com/in/randy-mitchell-74467217b
